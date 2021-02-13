@@ -1,0 +1,4 @@
+baseURL = "https://pianomusiczeu7.vercel.app"
+languageCode = "en-us"
+title = "Piano Sheet Music Easy"
+theme = "hugo-theme-minos"
